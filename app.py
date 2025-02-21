@@ -8,7 +8,7 @@ st.set_page_config(layout='wide')
 
 #----------Import Data----------#
 #import data
-df = pd.read_csv(r'C:\Users\Dell\Desktop\streamlit_dashboard\restaurant_sales.csv')
+df = pd.read_csv(r'restaurant_sales.csv')
 
 
 #----------Initial Data Wrangling----------#
